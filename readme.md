@@ -13,6 +13,11 @@
 + Software
   * Python3
   * Scratch1.4
++ System Management 
+  * Virtualization
+    * Vmware ESXi
+  * Data Storage
+    * Synology & Xpenology
 + 3D-Printers
   * FFF (Prusa i3)
   * SLA (Anycubic PHOTON series)
