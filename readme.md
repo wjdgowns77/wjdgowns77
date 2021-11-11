@@ -15,7 +15,7 @@
   * Scratch1.4
 + System Management 
   * Virtualization
-    * Vmware ESXi
+    * Vmware ESXi 6.X
   * Data Storage
     * Synology & Xpenology
 + 3D-Printers
@@ -27,7 +27,10 @@
 
 # Feel free to Contact Me!
 + Discord : GhostUser#2863
++ e-mail : admin@nonaver.com
 + Telegram : @wjdgowns77
++ MATRIX : @ghostuser2863:matrix.org
 + SIP URL : Coming Soon....
 + Phone Number : +82 10 3046 2119
-  * (I don't Use KakaoTalk or something)
+ * KakaoTalk is Deprecated.
+
