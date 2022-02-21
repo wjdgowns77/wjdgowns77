@@ -23,11 +23,12 @@
   * SLA (Anycubic PHOTON series)
 + SECURITY (Only field where KISA(한국인터넷진흥원)Denied to provide/support protection.)
   * Value-chain attack to outdated devices(SKY/Vega/Pantech)
-  * Value-chain attack to Network Devices
+  * Value-chain attack to Networking infra devices
 
 # Feel free to Contact Me!
 + Discord : GhostUser#2863
 + e-mail : admin@nonaver.com
++ Website : http://imholic.com
 + Telegram : @wjdgowns77
 + MATRIX : @ghostuser2863:matrix.org
 + SIP URL : Coming Soon....
