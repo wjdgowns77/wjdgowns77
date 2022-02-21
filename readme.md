@@ -22,8 +22,8 @@
   * FFF (Prusa i3)
   * SLA (Anycubic PHOTON series)
 + SECURITY (Only field where KISA(한국인터넷진흥원)Denied to provide/support protection.)
-  * Value-chain attack to outdated devices(SKY/Vega/Pantech)
-  * Value-chain attack to Networking infra devices
+  * Value-chain attack to outdated software and firmware.
+  * Value-chain attack to Network Infrastructure Devices.
 
 # Feel free to Contact Me!
 + Discord : GhostUser#2863
