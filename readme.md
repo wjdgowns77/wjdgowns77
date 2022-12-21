@@ -6,6 +6,8 @@
 
 # I-am Interested in...
 + Electrical Hardware
+  * Verilog HDL(FPGA)
+  * Circuit Design
   * Workstation / Server Computer Hardware
   * Mobile Phone Hardware
 + Wired/Wireless network.
