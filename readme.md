@@ -1,8 +1,14 @@
 # Hi there!!    
 + My name is Jeong HaeJun / 정해준 , AKA(Also Known As) GhostUser / 유령회원.
-+ I live in South Korea, Cheonan-si(Chungcheongnam-do)
-+ I am a student at Kongju National University (Cheonan Engineering Campus), Admission Date is 2019.03
-+ My Major is Radio Science Engineering, Department of Information&Communication Engineering.
++ I live in Anyang-si, Gyeonggi-do, South Korea
+
+# I am in (Affiliations)
++ Hardware & Software Engineer/Developer, Confidential Company.
++ Undergraduate Researcher, Kongju National University / Data Communication Lab
++ Student, of Kongju National University / Department of Information&Communication Engineering.
++ Student, School(s) in Seongnam-si
+  * Bulgok High School, Bundang-gu
+  * Chongsol Middle School, Bundang-gu (Closed in 2025.01 by Seongnam Office of Education)
 
 # I-am Interested in...
 + Electrical Hardware
